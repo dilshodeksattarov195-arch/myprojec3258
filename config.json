@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorpncrypt",
+        "uuid": 12497688,
+        "checksum": "cnxsqr"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
